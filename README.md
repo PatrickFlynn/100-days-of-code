@@ -1,7 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
 ## Daily Notes and Progress
-1. 1/1/2019: attempting to create infrastructure for scripting model/SQLlite db population
+1. 1/1/2019: attempting to create infrastructure for scripting model/SQLlite db population. At end of one hour of coding I have it functioning as intended.
 
 ## Contents
 
