@@ -2,6 +2,7 @@
 
 ## Daily Notes and Progress
 1. 1/1/2019: attempting to create infrastructure for scripting model/SQLlite db population. At end of one hour of coding I have it functioning as intended.
+2. 1/2/2019: starting project over from scratch - things are too confusing. Deleted all code and restarting following tutorial.
 
 ## Contents
 
