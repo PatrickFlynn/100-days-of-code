@@ -5,6 +5,11 @@
 
 2. 1/2/2019: starting project over from scratch - things are too confusing. Deleted all code and restarting following tutorial. My plan is to follow along and convert data into a marvel-ey way :) 
 
+1/3/2019 - Did not code
+1/4/2019 - Did not code
+
+1/5/2019 - Fixed all repo issues hopefully and created a git ignore to remove pycache files that were causing problems with merge
+
 ## Contents
 
 * [Rules](rules.md)
