@@ -9,6 +9,7 @@
 - 1/4/2019 - Did not code
 1. 1/5/2019 - Fixed all repo issues hopefully and created a git ignore to remove pycache files that were causing problems with merge
 2. 1/6/2019 - fixed all repo issues and did a git rm mysite/pycache* to clean out all the junk. Also created model and made the first migration to the SQLite DB
+3. 1/7/2019 - Created a working population script to import data and save it into SQLite DB! Woo! 
 
 ## Contents
 
