@@ -14,6 +14,7 @@
 5. 1/9/2019 - Created individual comic issues pages within website
 6. 1/10/2019 - Added bootstrap templating to site
 7. 1/11/2019 - Added scripts to add images from comic issues
+8. 1/12/2019 - Added syntax on issue page to add image straight from Marvel website. Not sure if I will keep this format yet.
 
 ## Contents
 
