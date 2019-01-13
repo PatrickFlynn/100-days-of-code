@@ -13,6 +13,7 @@
 4. 1/8/2019 - Got populate command working with data from marvel API and data pulls from DB onto index page! Progress!!!
 5. 1/9/2019 - Created individual comic issues pages within website
 6. 1/10/2019 - Added bootstrap templating to site
+7. 1/11/2019 - Added scripts to add images from comic issues
 
 ## Contents
 
