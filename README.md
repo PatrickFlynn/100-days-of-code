@@ -17,7 +17,7 @@
 8. 1/12/2019 - Added syntax on issue page to add image straight from Marvel website. Not sure if I will keep this format yet.
 9. 1/13/2019 - Created mysql DB on AWS and started migrating current code
 10. 1/14/2019 - Ported over all code and created image function for issue. All code works and ports over to AWS RDS DB
-11. 1/15/2019 - 
+11. 1/15/2019 - working on being able to call populate script from within code on demand (to be used from search, etc.)
 ## Contents
 
 * [Rules](rules.md)
