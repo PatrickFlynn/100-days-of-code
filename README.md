@@ -18,6 +18,7 @@
 9. 1/13/2019 - Created mysql DB on AWS and started migrating current code
 10. 1/14/2019 - Ported over all code and created image function for issue. All code works and ports over to AWS RDS DB
 11. 1/15/2019 - working on being able to call populate script from within code on demand (to be used from search, etc.)
+12. 1/16/2019 - laid ground work for pulling series - fixed populate command - need to institute a way to store issues pulled on one day for next days offset.
 ## Contents
 
 * [Rules](rules.md)
